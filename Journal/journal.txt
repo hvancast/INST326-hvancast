@@ -2,6 +2,7 @@ Week 1
 This week I used AI on a few of my assignments. I used ChatGPT to help me design supply and demand curves for my economics class. The visual aids are helpful in determining how the graph might change if there are non-price determinants or if there is positive or negative influence to a change in a product. Otherwise, since classes are just kicking off, I haven't used AI too much. I haven't had any code to debug, I have not had any long reading assignments I needed summarized or briefly explained. 
 
 Week 2
-This week I have used AI to explore topics for group projects. I am taking INST327, 311, and 335 on top of this class. For my INST311 class we are doing an app project so I used ChatGPt to generate ideas of apps that involve music and wellness. I have also used gemini for looking up basic information on google. I used it last night to see if I could crossover play Minecraft with the bedrock edition. I found out unfortunitely I cannot.
+This week I have used AI to explore topics for group projects. I am taking INST327, 311, and 335 on top of this class. For my INST311 class we are doing an app project so I used ChatGPt to generate ideas of apps that involve music and wellness. I have also used gemini for looking up basic information on google. I used it last night to see if I could crossover play Minecraft with the bedrock edition. I found out unfortunitely I cannot. 
+
 Week 3
 This week I used Copilot to give me examples of a few questions on the lab. Some concepts such as using return statements or using loops within functions I needed a refresh on. Outside of this class I had ChatGPT instruct me on drawing a step graph for "Willing to Sell" in my economics class. 
