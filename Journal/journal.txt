@@ -4,5 +4,9 @@ This week I used AI on a few of my assignments. I used ChatGPT to help me design
 Week 2
 This week I have used AI to explore topics for group projects. I am taking INST327, 311, and 335 on top of this class. For my INST311 class we are doing an app project so I used ChatGPt to generate ideas of apps that involve music and wellness. I have also used gemini for looking up basic information on google. I used it last night to see if I could crossover play Minecraft with the bedrock edition. I found out unfortunitely I cannot. 
 
+
 Week 3
 This week I used Copilot to give me examples of a few questions on the lab. Some concepts such as using return statements or using loops within functions I needed a refresh on. Outside of this class I had ChatGPT instruct me on drawing a step graph for "Willing to Sell" in my economics class. 
+
+Week 4
+This week I used ChatGPT to help me debug question 13 on the week 4 assignment. One of the assertions was not running correctly and I could not initilly figure out what was wrong with my code. I went through spelling errors, reread the problem to make sure I was adding the right attributes, etc. When I still could not figure it out I asked ChatGPt. Unfortunetly it still did not help and I don't understand what is wrong. 
