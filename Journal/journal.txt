@@ -10,3 +10,6 @@ This week I used Copilot to give me examples of a few questions on the lab. Some
 
 Week 4
 This week I used ChatGPT to help me debug question 13 on the week 4 assignment. One of the assertions was not running correctly and I could not initilly figure out what was wrong with my code. I went through spelling errors, reread the problem to make sure I was adding the right attributes, etc. When I still could not figure it out I asked ChatGPt. Unfortunetly it still did not help and I don't understand what is wrong. 
+
+Week 5
+I used AI starting with google Gemini to explain what bad/expired olive oil looks like. I made homemade olive oil with pepper flakes and few other seasonings and it was sittingin my kitchen for a month unused. I was going to use it but since there was no expiration date on the bottle I couldn't tell if it was still good. Gemini told me to look for a crayony smell and mold floating in the bottle, neither of which I saw. 
