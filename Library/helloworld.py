@@ -12,11 +12,19 @@ def calculate_money_available_after_tax(salary, tax_rate):
 salary = float(input("Enter your salary: "))
 tax_rate = float(input("Enter your tax rate (0-1): "))
 available = calculate_money_available_after_tax(salary, tax_rate)
+print(f"Money available after tax: ${available:,.2f}")
 
 #Tracks and stores user monthly spending
-def add_monthly_spending(amount, category, description, month):
+def track_monthly_spending(amount, category, description, month):
     with open("monthly_spending.txt", "a") as file:
         file.write(f"{month},{amount},{category},{description}\n")
+#gets user input for spending information
+amount = float(input("Enter amount spent: "))
+category = input("Enter spending category: ")
+description = input("Enter a short description: ")
+month = input("Enter the month: ")
+track_monthly_spending(amount, category, description, month)
+print("Spending record added")
 
 
  
