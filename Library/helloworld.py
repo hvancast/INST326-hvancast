@@ -8,6 +8,10 @@ def calculate_money_available_after_tax(salary, tax_rate):
     tax_amount = salary * tax_rate
     available = salary - tax_amount
     return available
+#Get user input for salary and tax rate
+salary = float(input("Enter your salary: "))
+tax_rate = float(input("Enter your tax rate (0-1): "))
+available = calculate_money_available_after_tax(salary, tax_rate)
 
 #Tracks and stores user monthly spending
 def add_monthly_spending(amount, category, description, month):
