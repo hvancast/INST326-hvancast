@@ -16,3 +16,6 @@ I used AI starting with google Gemini to explain what bad/expired olive oil look
 
 Week 6
 This week I needed to use ChatGPT for an SQL assignment to test whether or not ChatGPT could correctly create a table and the write the code for the table based off the information I told it. It was able to create the table but used a different syntax for linking the tabls than what I was taight in lecture. Otherwise I used ChatGpt to check my code for a few of the exercises on the week 6 homework.  
+
+Week 7
+This week I used CoPilot to help give me example uses for the week 7 exercises (if necessary). I also hung posters in my room the other day. I asked ChatGPT to give me the coordinates of where to put the nails to hang three posters (25 inch in width) equidistant from each other on a 187 inch wall. 
