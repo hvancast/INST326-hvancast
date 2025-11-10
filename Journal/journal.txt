@@ -22,3 +22,6 @@ This week I used CoPilot to help give me example uses for the week 7 exercises (
 
 Week 8
 I did not use AI much this week. I had ChatGPT explain some concepts of oligopolies for my economics class such as determining when they should compete or collude with each other. Other than that I used it minimally for debugging on the week 8 exercises.
+
+Week 9
+This week I used ChatGPT to help me come up with example code to test/ verify the exercises for week 9. I found this week more challenging than the last so I debugged more than I usually do. I used the AI to debug a lot of type and attribute errors I recieved. 
