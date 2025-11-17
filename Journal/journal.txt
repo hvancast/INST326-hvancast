@@ -25,3 +25,6 @@ I did not use AI much this week. I had ChatGPT explain some concepts of oligopol
 
 Week 9
 This week I used ChatGPT to help me come up with example code to test/ verify the exercises for week 9. I found this week more challenging than the last so I debugged more than I usually do. I used the AI to debug a lot of type and attribute errors I recieved. 
+
+Week 10
+I used CoPilot to help me come up with demonstrations for the week 10 exercises. For my own personal use I had ChatGPT define posisble meanings for words in the NYT games "Connections". I used Copilot again ti suggest hiercharcies for my domain and refactor existing code for project 3. 
